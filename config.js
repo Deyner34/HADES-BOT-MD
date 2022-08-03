@@ -4,15 +4,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['5212411347465', 'HADES_BOT', true],
-  ['5212412737467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['523532470551', 'HADES_BOT', true],
+  ['523532470551'],
+  ['51934299838'],
+  
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['523532470551'], 
 
 global.APIs = { // API Prefix.
   
